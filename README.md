@@ -6,7 +6,9 @@
  <div>
   <a href="https://github.com/rodrigoPc-Rpc">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoPc-Rpc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPc-Rpc&layout=compact&langs_count=7&theme=dark"></img>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPc-Rpc&amp;show_icons=true&amp;layout=compact&amp;theme=tokyonight" rel="nofollow">
+    <img align="center" src="https://camo.githubusercontent.com/7fadf217b78efcbd12ec86a0914135ec0c5bd82a6eea22d8ce55e486ec321f44/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4c75616e6465724661726961732673686f775f69636f6e733d74727565266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPc-Rpc&amp;show_icons=true&amp;layout=compact&amp;theme=tokyonight" style="max-width:100%;">
+  </a>
 </div>
   <a href="https://www.youtube.com/channel/COLOCAAQUI" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rodrigo_pc_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
