@@ -1,7 +1,7 @@
 # Hi! I'm Rodrigo!!
 
-<h2>💻 I'm work with front-end</h2>  
-<h2>⚛️ I'm actually learning React Js</h2>
+<h3>💻 I'm work with front-end</h3>  
+<h3>⚛️ I'm actually learning React Js</h3>
 
  <div>
   <a href="https://github.com/rodrigoPc-Rpc">
