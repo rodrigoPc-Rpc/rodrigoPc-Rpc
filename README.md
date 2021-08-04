@@ -4,7 +4,7 @@
 <h3 align="center">💻 I'm work with front-end</h3>  
 <h3 align="center">⚛️ I'm actually learning React Js</h3>
 
- <div>
+ <div align="center">
   <a href="https://github.com/rodrigoPc-Rpc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoPc-Rpc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoPc-Rpc&layout=compact&langs_count=7&theme=react&%22/%3E">
