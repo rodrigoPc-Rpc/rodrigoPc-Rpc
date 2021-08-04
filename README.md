@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hi! I'm Rodrigo!!</h1>
 </div>
-<h3 align="center">💻 I'm work with front-end</h3>  
+<h3 align="center">💻 I'm front-end developer</h3>  
 <h3 align="center">⚛️ I'm actually learning React Js</h3>
 
  <div align="center">
